@@ -1,32 +1,34 @@
-[
-  {
-    "id": 1,
-    "category": "Technology",
-    "title": "Regex",
-    "description": "Loren Ipsum Dolor",
-    "location": "Remote",
-    "date": "January 28, 2022",
-    "time": "12:00",
-    "organizer": "José"
-  },
-  {
-    "id": 2,
-    "category": "Technology",
-    "title": "TypeScript",
-    "description": "Loren Ipsum Dolor",
-    "location": "Remote",
-    "date": "March 14, 2022",
-    "time": "10:00",
-    "organizer": "Tortelli"
-  },
-  {
-    "id": 2,
-    "category": "Technology",
-    "title": "Nest",
-    "description": "Loren Ipsum Dolor",
-    "location": "Remote",
-    "date": "March 14, 2022",
-    "time": "10:00",
-    "organizer": "João"
-  }
-]
+{
+  "events": [
+    {
+      "id": 1,
+      "category": "Technology",
+      "title": "Regex",
+      "description": "Loren Ipsum Dolor",
+      "location": "Remote",
+      "date": "January 28, 2022",
+      "time": "12:00",
+      "organizer": "José"
+    },
+    {
+      "id": 2,
+      "category": "Technology",
+      "title": "TypeScript",
+      "description": "Loren Ipsum Dolor",
+      "location": "Remote",
+      "date": "March 14, 2022",
+      "time": "10:00",
+      "organizer": "Tortelli"
+    },
+    {
+      "id": 2,
+      "category": "Technology",
+      "title": "Nest",
+      "description": "Loren Ipsum Dolor",
+      "location": "Remote",
+      "date": "March 14, 2022",
+      "time": "10:00",
+      "organizer": "João"
+    }
+  ]
+}
